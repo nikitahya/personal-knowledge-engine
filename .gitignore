@@ -6,6 +6,9 @@ __pycache__/
 .env
 venv/
 .env.*
+.venv/
+
+pke.db
 
 .DS_Store
 
